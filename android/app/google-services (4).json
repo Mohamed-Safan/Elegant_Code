@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721483732052",
+    "project_id": "newappele",
+    "storage_bucket": "newappele.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721483732052:android:0c84c482fe73cde9b049c1",
+        "android_client_info": {
+          "package_name": "com.example.apphotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721483732052-5bi4ou10tbcmfq994s2e9435882nhso1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPhiDhR6vUPALvc2qcnQuJ4a0ZuMZlNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721483732052-5bi4ou10tbcmfq994s2e9435882nhso1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

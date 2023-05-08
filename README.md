@@ -1,4 +1,4 @@
-*To run the app Install ,  in your CMD*
+*To run the app Install following commands ,  n your CMD b*
 
 flutter pub add flutter_facebook_auth
 

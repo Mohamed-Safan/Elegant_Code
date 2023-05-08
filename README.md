@@ -1,16 +1,10 @@
-# apphotel
+*To run the app Install ,  in your CMD*
 
-A new Flutter project.
+flutter pub add flutter_facebook_auth
 
-## Getting Started
+flutter pub add firebase_core
 
-This project is a starting point for a Flutter application.
+flutter pub add firebase_core
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub add url_launcher
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
